@@ -8,9 +8,7 @@ Macbook Air M1
 
 I followed a tutorial of Abhilash Nelson on tutorialspoint called "Computer Vision: YOLO Custom Object Detection With Colab GPU"
 
-
-
-Instructions
-
+Instructions:
+------------------------------------
 The yolov3.cfg and the yolov3.weights must be saved in a folder called "model". 
 They can be downloaded under https://pjreddie.com/darknet/yolo/
